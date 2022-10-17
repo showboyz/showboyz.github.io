@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "image": "https://raw.githubusercontent.com/showboyz/showboyz.github.io/main/images-2.jpeg",
+    "date": "July 25",
+    "content": "cosmopolitan 화보"
+  },
+  {
+    "id": 1,
+    "image": "https://raw.githubusercontent.com/showboyz/showboyz.github.io/main/images-3.jpeg",
+    "date": "Aug 3",
+    "content": "ELLE 화보"
+  },
+  {
+    "id": 2,
+    "image": "https://raw.githubusercontent.com/showboyz/showboyz.github.io/main/images.jpeg",
+    "date": "Nov 30",
+    "content": "펩시 화보"
+  }
+]
